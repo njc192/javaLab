@@ -1,0 +1,6 @@
+#!/bin/bash
+#cp from FlowerTest/Flower.pde
+touch MouseTracer.java
+cp ../MouseTracer/MouseTracer.pde MouseTracer.java
+
+cp ../MouseTracer/Pixels.pde Pixels.java

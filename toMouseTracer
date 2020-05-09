@@ -1,0 +1,6 @@
+#!/bin/bash
+#wries to MouseTracerTest/MouseTracer.pde
+
+cp MouseTracer.java ../MouseTracer/MouseTracer.pde
+
+cp Pixels.java ../MouseTracer/Pixels.pde

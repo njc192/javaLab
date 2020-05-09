@@ -1,0 +1,5 @@
+#!/bin/bash
+#wries to FlowerTest/Flower.pde
+
+
+cp Flower.java ../FlowerTest/Flower.pde

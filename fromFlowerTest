@@ -1,0 +1,5 @@
+#!/bin/bash
+#cp from FlowerTest/Flower.pde
+
+cp ../FlowerTest/Flower.pde Flower.java
+
